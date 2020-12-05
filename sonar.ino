@@ -24,7 +24,7 @@ void loop() {
     delay(30); // Waits 30 ms
     distance = calculateDistance();// Calls a function for calculating the distance measured by the Ultrasonic sensor for each degree
 
-// Sends the angle and the distance
+    // Sends the angle and the distance
     Serial.print(i);
     Serial.print(",");
     Serial.print(distance);
@@ -53,6 +53,6 @@ int calculateDistance() {
   delayMicroseconds(10);
   digitalWrite(trigPin, LOW); // Sets the trigPin on LOW state after sending a high-frequency sound
   duration = pulseIn(echoPin, HIGH); // Reads the echoPin, returns the sound wave travel time in microseconds
-  distance = (duration/2)/29.1; // Calcultes the distance in centimeter
+  distance = (duration / 2) / 29.1; // Calcultes the distance in centimeter
   return distance;
 }
