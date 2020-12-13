@@ -11,5 +11,9 @@ The sonar will scan the area around him (15 to 165 degrees) and calculate the di
 * __A breadboard__ *(If necessary)*
 * __A micro servo motor__ *(Here i am using the SM-S2309S one)*
 
+## Requirements
+* __Arduino IDE__ *(So you can control your Arduino and its ultrasonic sensor)*
+* __Processing IDE__ *(So you can show sonar's interface)*
+
 ## How to do it ?
 
