@@ -17,3 +17,4 @@ The sonar will scan the area around him (15 to 165 degrees) and calculate the di
 
 ## How to do it ?
 
+* Start by
