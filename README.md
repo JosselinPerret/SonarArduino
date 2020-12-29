@@ -1,4 +1,4 @@
-# Sonar Project using Arduino !
+# Sonar Project using Arduino
 ## What is this ?
 It is a basic project made by *ZenkoLab* for no special reason.       
 The project is using an Aruidno with other composants (*all composants are detailled in the section below*).       
