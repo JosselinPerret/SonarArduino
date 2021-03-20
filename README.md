@@ -1,7 +1,7 @@
 # Sonar Project using Arduino
 ## What is this ?
 It is a basic project made by *ZenkoLab* for no special reason.       
-The project is using an Aruidno with other composants (*all composants are detailled in the section below*).       
+The project is using an Arduino with other composants (*all composants are detailled in the section below*).       
 The sonar will scan the area around him (15 to 165 degrees) and calculate the distance between it and an object.      
 
 ## Composants needed
